@@ -1,35 +1,17 @@
-# weather-app
 
-This template should help get you started developing with Vue 3 in Vite.
+## Features
 
-## Recommended IDE Setup
+- choose country and city 
+- light theme
+- weather forecast for the next 3 days
+- extra free features check wind speed, wind direction, uv index, humidity, and more...
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## API
 
-```sh
-npm install
-```
+i am using api with a timed trial license :  [weatherapi.com](www.weatherapi.com) (just a few weeks)
 
-### Compile and Hot-Reload for Development
+If it can't be used, maybe the license "has expired"
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
